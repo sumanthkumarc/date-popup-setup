@@ -12,7 +12,10 @@ This repo has necessary files to be included and code to get you started with da
            showTodayButton : true
    });
 </code>
+<br />
 
 Links: 
--> https://github.com/Eonasdan/bootstrap-datetimepicker
--> http://eonasdan.github.io/bootstrap-datetimepicker
+<ul>
+<li>https://github.com/Eonasdan/bootstrap-datetimepicker</li>
+<li> http://eonasdan.github.io/bootstrap-datetimepicker</li>
+</ul>
