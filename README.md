@@ -8,7 +8,7 @@ Links:
 <li>https://github.com/Eonasdan/bootstrap-datetimepicker</li>
 <li> http://eonasdan.github.io/bootstrap-datetimepicker</li>
 </ul>
-
+Steps:
 1. Include all js and css files given in repo.
 2. Make sure you include bootstrap-datetimepicker.min.js at the end of all js files ie., the script tag which includes this js file should be at end of other script tags which include other js files like collapse.js etc.
 3. invoke the datetimepicker() on wanted element.
@@ -30,7 +30,7 @@ In any case , if you want the popup to stay open, always, add the property debug
    });
 ```
 <br />
-The below code tries to automatically open time picker when a date is clicked. taken from issue filed at bewlo url:
+The below code tries to automatically open time picker when a date is clicked. taken from issue filed at below url:
 https://github.com/Eonasdan/bootstrap-datetimepicker/issues/1368
 ```   
        jQuery('#element')
