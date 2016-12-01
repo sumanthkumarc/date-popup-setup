@@ -5,7 +5,7 @@ This repo has necessary files to be included and code to get you started with da
 2. Make sure you include bootstrap-datetimepicker.min.js at the end of all js files ie., the script tag which includes this js file should be at end of other script tags which include other js files like collapse.js etc.
 3. invoke the datetimepicker() on wanted element.
 
-<code>
+
 ...
    jQuery('#element').datetimepicker({
            format: 'D.MM.YYYY - HH:mm',
@@ -13,7 +13,7 @@ This repo has necessary files to be included and code to get you started with da
            showTodayButton : true
    });
 ...
-</code>
+
 <br />
 
 Links: 
