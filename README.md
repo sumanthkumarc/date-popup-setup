@@ -24,17 +24,17 @@ Links:
 
 
 In any case , if you want the popup to stay open, always, add the property debug: true.
-<code>
+```
    jQuery('#element').datetimepicker({
            format: 'D.MM.YYYY - HH:mm',
            useCurrent : false,
            debug: true
    });
-</code>
+```
 
 The below code tries to automatically open time picker when a date is clicked. taken from issue filed at bewlo url:
 https://github.com/Eonasdan/bootstrap-datetimepicker/issues/1368
-<code>
+```
                 .on("dp.show", function (e) {
                     $(".day").on('click', function () {
                         $("a[data-action='togglePicker']").trigger('click');
@@ -45,4 +45,4 @@ https://github.com/Eonasdan/bootstrap-datetimepicker/issues/1368
                         $("a[data-action='togglePicker']").trigger('click');
                     });
                 })
-</code>                
+```                
