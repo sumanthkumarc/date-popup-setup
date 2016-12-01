@@ -21,7 +21,7 @@ Links:
 <li>https://github.com/Eonasdan/bootstrap-datetimepicker</li>
 <li> http://eonasdan.github.io/bootstrap-datetimepicker</li>
 </ul>
-
+<br />
 
 In any case , if you want the popup to stay open, always, add the property debug: true.
 ```
@@ -29,7 +29,7 @@ In any case , if you want the popup to stay open, always, add the property debug
            debug: true
    });
 ```
-
+<br />
 The below code tries to automatically open time picker when a date is clicked. taken from issue filed at bewlo url:
 https://github.com/Eonasdan/bootstrap-datetimepicker/issues/1368
 ```   
