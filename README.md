@@ -19,3 +19,13 @@ Links:
 <li>https://github.com/Eonasdan/bootstrap-datetimepicker</li>
 <li> http://eonasdan.github.io/bootstrap-datetimepicker</li>
 </ul>
+
+
+In any case , if you want the popup to stay open, always, add the property debug: true.
+<code>
+   jQuery('#element').datetimepicker({
+           format: 'D.MM.YYYY - HH:mm',
+           useCurrent : false,
+           debug: true
+   });
+</code>
