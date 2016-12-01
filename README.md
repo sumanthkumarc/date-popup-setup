@@ -6,11 +6,13 @@ This repo has necessary files to be included and code to get you started with da
 3. invoke the datetimepicker() on wanted element.
 
 <code>
+...
    jQuery('#element').datetimepicker({
            format: 'D.MM.YYYY - HH:mm',
            useCurrent : false,
            showTodayButton : true
    });
+...
 </code>
 <br />
 
